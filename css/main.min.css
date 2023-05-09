@@ -270,7 +270,7 @@ p {
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
-  width: 68%;
+  width: 78%;
   height: 100%;
   position: relative;
 }
@@ -292,7 +292,7 @@ p {
   height: 60px;
   position: absolute;
   top: -8px;
-  left: 155px;
+  left: 151px;
   border-top: 2px solid #43a7ff;
   border-left: 2px solid #43a7ff;
 }
